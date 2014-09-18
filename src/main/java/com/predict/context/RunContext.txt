@@ -1,0 +1,6 @@
+LocalConnectionString=jdbc:mysql://localhost:3306/duplicate
+OpenShiftConnectionString=jdbc:mysql://127.1.249.130:3306/predict
+LocalUserName=root
+LocalPassword=root
+OpenShiftUserName=adminCpFR6Pr
+OpenShiftPassword=MZh18gWxnNMJ
